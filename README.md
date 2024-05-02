@@ -1,1 +1,1 @@
-# studend-data
+# student-data
